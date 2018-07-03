@@ -1,6 +1,6 @@
 [submodule "Blockgeeks"]
 	path = Blockgeeks
 	url = https://github.com/letugade/Blockgeeks
-[submodule "IBS"]
-	path = IBS
+[submodule "Institute-of-Blockchain-Singapore"]
+	path = Institute-of-Blockchain-Singapore
 	url = https://github.com/letugade/Institute-Blockchain-Singapore

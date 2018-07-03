@@ -1,2 +1,2 @@
 # Courses
-Resources and Projects I have created or worked on during courses
+Resources and projects I have created or worked on during courses
